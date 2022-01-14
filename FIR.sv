@@ -12,7 +12,7 @@ typedef integer coef_data_type [order:0]; // defining a datatype
 function coef_data_type init();
 coef_data_type val;
 integer i;
-for(i = 0;i<=order;i=i+1) val[i] = 2;
+for(i = 0;i<=order;i=i+1) val[i] = 2; 
 endfunction : init
  
  ////////////////////////////////////////////////////////
