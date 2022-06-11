@@ -1,6 +1,6 @@
 
 # PIPELINED FIR FILTER
-This is pipelined FIR filter with n th order , where n is specified by used it uses only n registers of each 8 bits size 
+> *This is pipelined FIR filter with n th order , where n is specified by used it uses only n registers of each 8 bits size 
 
 ### RTL DESCRIPTION OF 1st ORDER FIR FILTER 
 ![PIC1](FIR_ORDER_1_RTL.png)
